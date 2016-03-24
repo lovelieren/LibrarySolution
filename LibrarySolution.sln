@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual_Override_New", "Virtual_Override_New\Virtual_Override_New.csproj", "{88FADA40-85FE-44E2-AD44-034EBFFA8C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{231409C2-969F-40C8-834B-FE4E49753617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetReflection", "NetReflection\NetReflection.csproj", "{A105BADD-0D1B-4206-A844-F5653B0AF5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateInvoke", "DelegateInvoke\DelegateInvoke.csproj", "{FCF9B00B-5EAC-476A-8F42-597688593941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "++i_i++", "++i_i++\++i_i++.csproj", "{C1D58661-0CF2-493A-A75D-ED599BD6CF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleParameters", "MultipleParameters\MultipleParameters.csproj", "{F28943FC-92B4-49D0-93D6-E1EA8CFD9ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackTrackingAlgorithm", "BackTrackingAlgorithm\BackTrackingAlgorithm.csproj", "{07B00242-4D68-479D-BD63-B2827DC2F004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88FADA40-85FE-44E2-AD44-034EBFFA8C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FADA40-85FE-44E2-AD44-034EBFFA8C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FADA40-85FE-44E2-AD44-034EBFFA8C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FADA40-85FE-44E2-AD44-034EBFFA8C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231409C2-969F-40C8-834B-FE4E49753617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231409C2-969F-40C8-834B-FE4E49753617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231409C2-969F-40C8-834B-FE4E49753617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231409C2-969F-40C8-834B-FE4E49753617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A105BADD-0D1B-4206-A844-F5653B0AF5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A105BADD-0D1B-4206-A844-F5653B0AF5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A105BADD-0D1B-4206-A844-F5653B0AF5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A105BADD-0D1B-4206-A844-F5653B0AF5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF9B00B-5EAC-476A-8F42-597688593941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF9B00B-5EAC-476A-8F42-597688593941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF9B00B-5EAC-476A-8F42-597688593941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF9B00B-5EAC-476A-8F42-597688593941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D58661-0CF2-493A-A75D-ED599BD6CF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D58661-0CF2-493A-A75D-ED599BD6CF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D58661-0CF2-493A-A75D-ED599BD6CF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D58661-0CF2-493A-A75D-ED599BD6CF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28943FC-92B4-49D0-93D6-E1EA8CFD9ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28943FC-92B4-49D0-93D6-E1EA8CFD9ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28943FC-92B4-49D0-93D6-E1EA8CFD9ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28943FC-92B4-49D0-93D6-E1EA8CFD9ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B00242-4D68-479D-BD63-B2827DC2F004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B00242-4D68-479D-BD63-B2827DC2F004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B00242-4D68-479D-BD63-B2827DC2F004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B00242-4D68-479D-BD63-B2827DC2F004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
