@@ -1,0 +1,5 @@
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\BackTrackingAlgorithm\bin\Debug\BackTrackingAlgorithm.exe
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\BackTrackingAlgorithm\bin\Debug\BackTrackingAlgorithm.pdb
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\BackTrackingAlgorithm\obj\Debug\BackTrackingAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\BackTrackingAlgorithm\obj\Debug\BackTrackingAlgorithm.exe
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\BackTrackingAlgorithm\obj\Debug\BackTrackingAlgorithm.pdb

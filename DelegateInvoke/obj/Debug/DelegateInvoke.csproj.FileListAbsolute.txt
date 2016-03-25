@@ -1,0 +1,6 @@
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\DelegateInvoke\bin\Debug\DelegateInvoke.exe.config
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\DelegateInvoke\obj\Debug\DelegateInvoke.csprojResolveAssemblyReference.cache
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\DelegateInvoke\bin\Debug\DelegateInvoke.exe
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\DelegateInvoke\bin\Debug\DelegateInvoke.pdb
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\DelegateInvoke\obj\Debug\DelegateInvoke.exe
+C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\DelegateInvoke\obj\Debug\DelegateInvoke.pdb
