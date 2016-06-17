@@ -3,3 +3,8 @@ C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\++i_i++\bin
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\++i_i++\obj\Debug\++i_i++.csprojResolveAssemblyReference.cache
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\++i_i++\obj\Debug\++i_i++.exe
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\++i_i++\obj\Debug\++i_i++.pdb
+C:\Users\love_\Documents\GitHub\LibrarySolution\++i_i++\bin\Debug\++i_i++.exe
+C:\Users\love_\Documents\GitHub\LibrarySolution\++i_i++\bin\Debug\++i_i++.pdb
+C:\Users\love_\Documents\GitHub\LibrarySolution\++i_i++\obj\Debug\++i_i++.csprojResolveAssemblyReference.cache
+C:\Users\love_\Documents\GitHub\LibrarySolution\++i_i++\obj\Debug\++i_i++.exe
+C:\Users\love_\Documents\GitHub\LibrarySolution\++i_i++\obj\Debug\++i_i++.pdb

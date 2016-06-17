@@ -4,3 +4,9 @@ c:\users\love_\documents\visual studio 2013\Projects\LibrarySolution\Virtual_Ove
 c:\users\love_\documents\visual studio 2013\Projects\LibrarySolution\Virtual_Override_New\obj\Debug\Virtual_Override_New.csprojResolveAssemblyReference.cache
 c:\users\love_\documents\visual studio 2013\Projects\LibrarySolution\Virtual_Override_New\obj\Debug\Virtual_Override_New.exe
 c:\users\love_\documents\visual studio 2013\Projects\LibrarySolution\Virtual_Override_New\obj\Debug\Virtual_Override_New.pdb
+C:\Users\love_\Documents\GitHub\LibrarySolution\Virtual_Override_New\bin\Debug\Virtual_Override_New.exe.config
+C:\Users\love_\Documents\GitHub\LibrarySolution\Virtual_Override_New\bin\Debug\Virtual_Override_New.exe
+C:\Users\love_\Documents\GitHub\LibrarySolution\Virtual_Override_New\bin\Debug\Virtual_Override_New.pdb
+C:\Users\love_\Documents\GitHub\LibrarySolution\Virtual_Override_New\obj\Debug\Virtual_Override_New.csprojResolveAssemblyReference.cache
+C:\Users\love_\Documents\GitHub\LibrarySolution\Virtual_Override_New\obj\Debug\Virtual_Override_New.exe
+C:\Users\love_\Documents\GitHub\LibrarySolution\Virtual_Override_New\obj\Debug\Virtual_Override_New.pdb

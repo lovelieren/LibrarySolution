@@ -4,3 +4,9 @@ C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\NetReflecti
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\NetReflection\obj\Debug\NetReflection.csprojResolveAssemblyReference.cache
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\NetReflection\obj\Debug\NetReflection.exe
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\NetReflection\obj\Debug\NetReflection.pdb
+C:\Users\love_\Documents\GitHub\LibrarySolution\NetReflection\bin\Debug\NetReflection.exe.config
+C:\Users\love_\Documents\GitHub\LibrarySolution\NetReflection\bin\Debug\NetReflection.exe
+C:\Users\love_\Documents\GitHub\LibrarySolution\NetReflection\bin\Debug\NetReflection.pdb
+C:\Users\love_\Documents\GitHub\LibrarySolution\NetReflection\obj\Debug\NetReflection.csprojResolveAssemblyReference.cache
+C:\Users\love_\Documents\GitHub\LibrarySolution\NetReflection\obj\Debug\NetReflection.exe
+C:\Users\love_\Documents\GitHub\LibrarySolution\NetReflection\obj\Debug\NetReflection.pdb

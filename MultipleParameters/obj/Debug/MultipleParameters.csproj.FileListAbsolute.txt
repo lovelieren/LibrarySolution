@@ -3,3 +3,8 @@ C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\MultiplePar
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\MultipleParameters\obj\Debug\MultipleParameters.exe
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\MultipleParameters\obj\Debug\MultipleParameters.pdb
 C:\Users\love_\documents\visual studio 2013\Projects\LibrarySolution\MultipleParameters\obj\Debug\MultipleParameters.csprojResolveAssemblyReference.cache
+C:\Users\love_\Documents\GitHub\LibrarySolution\MultipleParameters\bin\Debug\MultipleParameters.exe
+C:\Users\love_\Documents\GitHub\LibrarySolution\MultipleParameters\bin\Debug\MultipleParameters.pdb
+C:\Users\love_\Documents\GitHub\LibrarySolution\MultipleParameters\obj\Debug\MultipleParameters.csprojResolveAssemblyReference.cache
+C:\Users\love_\Documents\GitHub\LibrarySolution\MultipleParameters\obj\Debug\MultipleParameters.exe
+C:\Users\love_\Documents\GitHub\LibrarySolution\MultipleParameters\obj\Debug\MultipleParameters.pdb
